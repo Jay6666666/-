@@ -71,7 +71,7 @@ namespace UnitTest2
 			char fuhao[4] = { '+','-','*','/' }; //运算符
 		}
 
-			TEST_METHOD(TestMethod6)
+		TEST_METHOD(TestMethod6)
 		{
 			int num = 100; //算式数量
 			int imax = 100;  //最大数
@@ -83,7 +83,7 @@ namespace UnitTest2
 			char fuhao[4] = { '+','-','*','/' }; //运算符
 		}
 
-				TEST_METHOD(TestMethod7)
+		TEST_METHOD(TestMethod7)
 		{
 			int num = 100; //算式数量
 			int imax = 100;  //最大数
@@ -95,7 +95,7 @@ namespace UnitTest2
 			char fuhao[4] = { '+','-','*','/' }; //运算符
 		}
 
-					TEST_METHOD(TestMethod8)
+		TEST_METHOD(TestMethod8)
 		{
 			int num = 100; //算式数量
 			int imax = 100;  //最大数
@@ -107,7 +107,7 @@ namespace UnitTest2
 			char fuhao[4] = { '+','-','*','/' }; //运算符
 		}
 
-						TEST_METHOD(TestMethod9)
+		TEST_METHOD(TestMethod9)
 		{
 			int num = 100; //算式数量
 			int imax = 100;  //最大数
@@ -119,7 +119,7 @@ namespace UnitTest2
 			char fuhao[4] = { '+','-','*','/' }; //运算符
 		}
 
-							TEST_METHOD(TestMethod10)
+		TEST_METHOD(TestMethod10)
 		{
 			int num = 100; //算式数量
 			int imax = 100;  //最大数
